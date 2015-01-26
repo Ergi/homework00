@@ -1,5 +1,3 @@
-# About me
-
 # Ergi Agolli 
 
 # E-mail: eagolli@na.edu
@@ -8,7 +6,7 @@
 
 ## I love Python because I like writing with python, and is getting so popular.
 
-## I least-liked Java
+## There is no language that I dislike.
 
 ## I would like to learn PHP and Ruby
 
